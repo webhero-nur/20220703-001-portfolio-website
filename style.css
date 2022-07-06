@@ -11,7 +11,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
 }
@@ -47,4 +47,5 @@ section {
 
 #dream-big p {
     padding-right: 150px;
+    text-align: justify;
 }
